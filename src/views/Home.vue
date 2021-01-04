@@ -359,7 +359,6 @@ export default {
   name: 'Home',
   components: {
   },
-
   data: () => ({
     links: [
       {text: 'RANGISHA', route: '/Rangisha'},
