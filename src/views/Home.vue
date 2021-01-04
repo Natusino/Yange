@@ -12,7 +12,6 @@
                 </v-container>
               </div>
             <div class="shopping-box">
-              <!-- <i class="fa fa-shopping-bag"></i> -->
               <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="#fff">
                 <path d="M3.44 2l-.439-2h17.994l-.439 2h-17.116zm-1.44 3l-.439-2h20.879l-.44
                 2h-20zm10.099 10.716l.004.283h-5.939l-.048-.292c-.133-.779-.177-1.224.582-1.43.842-.227 
