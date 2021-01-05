@@ -326,8 +326,6 @@
       width: 90%;
       font-size: 20px;
       margin-left: 5px;
-      /* z-index: 100;
-      position: relative; */
     }
     /* .cards{
       position: absolute;
