@@ -232,7 +232,6 @@
   .cards img{
     width: 90%;
     margin-top: 35px;
-  /*   margin: 100px auto; */
   }
   /* END DESCRIPTION IMAGE STYLES */
 
