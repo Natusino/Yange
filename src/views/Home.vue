@@ -238,7 +238,6 @@
 
   /* SHOPING BAG STYLES */
   .shopping-box{
-    /* padding-top: 10px !important; */
     width: 150px;
     height: 150px;
     right: 0;
