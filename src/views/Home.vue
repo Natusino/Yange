@@ -254,24 +254,6 @@
     position: absolute;
   } 
 
-  /* .shopping-box1{
-    width: 150px;
-     height: 100px;
-     right: 0;
-     top: 200px;
-     position: absolute;
-     background-image: linear-gradient(#0F658C,#d7e6fa);
-     border-radius:0 0 60px 240px;
-     }
-  .shopping-box .fa{
-      font-size: 25px;
-      color:#fff;
-      bottom: 60px;
-      right: 70px;
-      cursor: pointer;
-      position: absolute;
-      z-index: 1;
-  }  */
   /* END SHOPING BAG STYLES */
 
   /* STYLES FOR SIDE ICONS */
