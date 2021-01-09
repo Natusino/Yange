@@ -103,7 +103,6 @@
                    runaka yabasha kuyirangisha ndetse 
                      ikanafasha umuntu watoye ikarita 
               iyo ariyo yose kubona uburyo bwo kuyiranga. </p>
-            <!--   <span> <img src="real.png" class="play-btn" alt=""> Watch Video </span> -->
             <router-link v-for="link in links" :key="link.text" router :to="link.route">
                     <button>{{link.text}}</button>
             </router-link>
