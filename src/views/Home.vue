@@ -97,8 +97,7 @@
           <div class="desc">
             <h1>YANGE APP</h1>
             <p>Yange ni urubuga ruhuza abantu bataye ndetse 
-                nabatoye ibyangombwa(amakarita)
-        
+                nabatoye ibyangombwa(amakarita)        
                 Rufasha kuba umuntu wataye ikarita ye
                    runaka yabasha kuyirangisha ndetse 
                      ikanafasha umuntu watoye ikarita 
