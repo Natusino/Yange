@@ -108,7 +108,6 @@
           </div>
           <div class="cards">
               <img src="card.png" alt="">
-              <!-- <small><b>Powered by <a href="">Code Swamp</a></b></small> -->
           </div>    
         </div>
         <div class="powered">
