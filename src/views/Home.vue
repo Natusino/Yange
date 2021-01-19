@@ -303,12 +303,6 @@
       font-size: 20px;
       margin-left: 5px;
     }
-    /* .cards{
-      position: absolute;
-      z-index: -100;
-      top: 0;
-      left: 0;
-    } */
     .shopping-box{    
       width: 150px;
       height: 150px;
