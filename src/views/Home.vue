@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-content>
-      <!-- old version -->
+      <!-- bye old version -->
       <div class="wrapper">
               <div class="top-bar">
                 <v-container class="search">
