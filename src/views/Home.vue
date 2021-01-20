@@ -1,7 +1,6 @@
 <template>
   <v-app>
     <v-content>
-      <!-- old version -->
       <div class="wrapper">
               <div class="top-bar">
                 <v-container class="search">
