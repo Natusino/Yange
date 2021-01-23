@@ -146,10 +146,7 @@
   /* END TOP BAR STYLES */
 
   /* STYLES FOR TOP-BAR SEARCH PART */
-  /* .search-box{
-    width: 20%;
-    float: right;
-  }
+ 
   .input-search{
     margin: 11px auto;
     display: inline-flex;
