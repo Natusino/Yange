@@ -120,13 +120,11 @@
 </template>
 
 <style scoped>
-  /* GENERAL STYLES */
   template{
     margin: 0;
     padding: 0;
     font-family: 'Didact Gothic', sans-serif;
   }
-  /* END GENERAL STYLES */
 
   /* GENERAL CODE STYLES */
   .wrapper{
